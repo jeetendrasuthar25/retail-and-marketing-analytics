@@ -1,0 +1,4 @@
+touch data/raw/.gitkeep
+touch outputs/figures/.gitkeep
+touch outputs/reports/.gitkeep
+```

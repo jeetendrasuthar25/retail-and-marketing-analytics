@@ -1,0 +1,41 @@
+cat > .gitignore << EOF
+# Data files
+*.csv
+*.xlsx
+*.db
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (keep structure, not files)
+outputs/figures/*
+outputs/reports/*
+!outputs/figures/.gitkeep
+!outputs/reports/.gitkeep
+
+# Dashboard files (too large)
+*.pbix
+dashboards/*.twb
+EOF
