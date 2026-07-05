@@ -7,4 +7,4 @@ KEY FINDINGS FROM EXPLORATORY DATA ANALYSIS
 4. Weekend sales are 0.9% higher than weekday sales
 5. Top 20% of products generate 27.3% of revenue (Pareto principle confirmed)
 
-Generated: 2026-07-05 16:22:07
+Generated: 2026-07-05 19:14:35
