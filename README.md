@@ -1,9 +1,9 @@
-# 🛍️ RETAIL & MARKETING ANALYTICS PROJECT
+#  RETAIL & MARKETING ANALYTICS PROJECT
 ## End-to-End Data Analytics Project for Students
 
 ---
 
-## 📋 TABLE OF CONTENTS
+##  TABLE OF CONTENTS
 1. [Project Overview](#project-overview)
 2. [Business Context](#business-context)
 3. [Project Objectives](#project-objectives)
@@ -173,27 +173,27 @@ The executive team needs data-driven insights to:
 ## Overview
 End-to-end data analytics project focused on customer segmentation, sales optimization, and marketing effectiveness for retail businesses.
 
-## 🎯 Objectives
+##  Objectives
 - Perform customer segmentation using RFM analysis and K-Means clustering
 - Analyze sales trends and product performance
 - Design and track key performance indicators (KPIs)
 - Build interactive dashboards for business insights
 - Provide actionable recommendations for marketing strategy
 
-## 📊 Dataset
+##  Dataset
 - **Source:** Kaggle - Retail Sales Dataset
 - **Records:** XX,XXX transactions
 - **Time Period:** YYYY-YYYY
 - **Features:** Customer ID, Product details, Sales, Dates, etc.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python **: pandas, numpy, scikit-learn, matplotlib, seaborn, plotly
 - **Power BI**: Interactive dashboards
 - **Jupyter Notebook**: Analysis and documentation
 - **Git/GitHub**: Version control
 
 
-## 📈 Key Results
+##  Key Results
 
 ### Customer Segments Identified
 1. **VIP Customers** (15%): High frequency, low recency, high spend
@@ -215,7 +215,7 @@ End-to-end data analytics project focused on customer segmentation, sales optimi
 
 
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 - Data cleaning and preprocessing techniques
 - Exploratory data analysis (EDA)
 - RFM analysis and customer segmentation
@@ -225,16 +225,16 @@ End-to-end data analytics project focused on customer segmentation, sales optimi
 - Business insights generation
 
 
-## 👨‍💻 Author
+##  Author
 **Your Name**
 - GitHub: [@jeetendrasuthar25](https://github.com/jeetendrasuthar25/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jeetendrasuthar/)
 - Email: jeetendrasuthar2003@gmail.com
 
-## 📄 License
+##  License
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - Dataset source: Kaggle
 - Inspiration: Various retail analytics case studies
 - Tools: Python, Power BI, scikit-learn
