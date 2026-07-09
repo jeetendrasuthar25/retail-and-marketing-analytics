@@ -3,8 +3,8 @@ Total_Revenue,1078670.9794753478
 Total_Orders,10000
 Avg_Order_Value,107.86709794753477
 Total_Units_Sold,50065
-Total_Profit,198274.8546469869
-Profit_Margin_Pct,18.381402524004617
+Total_Profit,197662.4292311758
+Profit_Margin_Pct,18.32462659997735
 Total_Customers,1986
 Revenue_Per_Customer,543.1374519009807
 Avg_Orders_Per_Customer,5.0352467270896275
@@ -17,7 +17,7 @@ Total_Categories,4
 Avg_Customer_Lifetime_Value,7521.2860619986195
 Customer_Acquisition_Cost,50
 CLV_to_CAC_Ratio,150.4257212399724
-Profit_Per_Customer,99.83628129254124
+Profit_Per_Customer,99.5279099854863
 CAC_Payback_Months,4.418770960463141
 Churned_Customers,216
 Churn_Rate,10.876132930513595
