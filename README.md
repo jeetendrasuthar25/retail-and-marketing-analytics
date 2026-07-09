@@ -10,6 +10,7 @@
 4. [Technical Stack](#technical-stack)
 5. [Insights & Recommendations](#insights--recommendations)
 6. [Final Overview of Project](#final-overview-of-project)
+7. [Executive Summary](#executive-summary)
 
 
 ---
