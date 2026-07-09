@@ -21,15 +21,7 @@
 
 ### **Domain:** Retail, E-commerce, Marketing Analytics
 
-### **Target Roles:** 
-- Marketing Analyst
-- Business Intelligence Analyst
-- Data Analyst
-- Retail Analytics Specialist
-
 ### **Project Duration:** 3-4 Weeks
-
-### **Difficulty Level:** Intermediate to Advanced
 
 ---
 
